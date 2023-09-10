@@ -1,0 +1,166 @@
+{
+  "volunteers": [
+    {
+      "id": 103,
+      "name": "Sarah Johnson",
+      "expertise": "Social Media",
+      "location": "Sunnyville",
+      "contactEmail": "sarah@example.com",
+      "contactPhone": "+1122334455",
+      "bio": "Social media enthusiast ready to boost your online presence.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 104,
+      "name": "Michael Brown",
+      "expertise": "Graphic Design",
+      "location": "Bloomington",
+      "contactEmail": "michael@example.com",
+      "contactPhone": "+9988776655",
+      "bio": "Graphic designer with a passion for creating stunning visuals.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 105,
+      "name": "Olivia Martinez",
+      "expertise": "Content Writing",
+      "location": "Silicon Valley",
+      "contactEmail": "olivia@example.com",
+      "contactPhone": "+1112223333",
+      "bio": "Experienced content writer eager to craft engaging stories.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 106,
+      "name": "David White",
+      "expertise": "Photography",
+      "location": "Creativityville",
+      "contactEmail": "david@example.com",
+      "contactPhone": "+4445556666",
+      "bio": "Photographer with an eye for capturing beautiful moments.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 107,
+      "name": "Emily Taylor",
+      "expertise": "Accounting",
+      "location": "Animaltown",
+      "contactEmail": "emily@example.com",
+      "contactPhone": "+7778889999",
+      "bio": "Accountant ready to help small businesses manage finances.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 108,
+      "name": "Richard Lee",
+      "expertise": "Web Development",
+      "location": "Techtopia",
+      "contactEmail": "richard@example.com",
+      "contactPhone": "+5556667777",
+      "bio": "Web developer skilled in creating modern and responsive websites.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 109,
+      "name": "Linda Clark",
+      "expertise": "Marketing",
+      "location": "Marketingville",
+      "contactEmail": "linda@example.com",
+      "contactPhone": "+3334445555",
+      "bio": "Marketing specialist with a track record of driving business growth.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    },
+    {
+      "id": 110,
+      "name": "Peter Adams",
+      "expertise": "Search Engine Optimization",
+      "location": "SEO City",
+      "contactEmail": "peter@example.com",
+      "contactPhone": "+6667778888",
+      "bio": "SEO expert ready to boost your website's visibility on search engines.",
+      "image": "https://source.unsplash.com/400x300/?person"
+    }
+  ],
+  "smallBusinesses": [
+    {
+      "id": 3,
+      "name": "Sunshine Cafe",
+      "type": "Food",
+      "location": "789 Oak Street, Sunnyville",
+      "contactEmail": "sunshinecafe@email.com",
+      "contactPhone": "+1112223333",
+      "description": "A cozy cafe serving breakfast and lunch with a friendly atmosphere.",
+      "image": "https://source.unsplash.com/400x300/?food"
+    },
+    {
+      "id": 4,
+      "name": "Green Thumb Nursery",
+      "type": "Retail",
+      "location": "456 Garden Lane, Bloomington",
+      "contactEmail": "greenthumb@email.com",
+      "contactPhone": "+4445556666",
+      "description": "A garden supply store offering plants, gardening tools, and advice.",
+      "image": "https://source.unsplash.com/400x300/?plants"
+    },
+    {
+      "id": 5,
+      "name": "Tech Solutions Inc.",
+      "type": "Technology",
+      "location": "101 Tech Avenue, Silicon Valley",
+      "contactEmail": "techsolutions@email.com",
+      "contactPhone": "+9998887777",
+      "description": "An IT consulting firm specializing in tech solutions for businesses.",
+      "image": "https://source.unsplash.com/400x300/?tech"
+    },
+    {
+      "id": 6,
+      "name": "Creative Crafts Studio",
+      "type": "Arts & Crafts",
+      "location": "321 Art Street, Creativityville",
+      "contactEmail": "creativecrafts@email.com",
+      "contactPhone": "+7778889999",
+      "description": "An arts and crafts studio offering classes and supplies for artists.",
+      "image": "https://source.unsplash.com/400x300/?art"
+    },
+    {
+      "id": 7,
+      "name": "Fido's Pet Emporium",
+      "type": "Pets",
+      "location": "222 Pet Plaza, Animaltown",
+      "contactEmail": "fidospet@email.com",
+      "contactPhone": "+3334445555",
+      "description": "A pet store with a wide range of pet supplies and services.",
+      "image": "https://source.unsplash.com/400x300/?pets"
+    },
+    {
+      "id": 8,
+      "name": "Bookworm Bookstore",
+      "type": "Retail",
+      "location": "567 Library Lane, Bookville",
+      "contactEmail": "bookworm@email.com",
+      "contactPhone": "+5556667777",
+      "description": "A bookstore with a vast collection of books for all ages.",
+      "image": "https://source.unsplash.com/400x300/?books"
+    },
+    {
+      "id": 9,
+      "name": "Healthy Bites Cafe",
+      "type": "Food",
+      "location": "789 Garden Avenue, Healthsville",
+      "contactEmail": "healthybites@email.com",
+      "contactPhone": "+7778889999",
+      "description": "A health-focused cafe offering nutritious meals and smoothies.",
+      "image": "https://source.unsplash.com/400x300/?health"
+    },
+    {
+      "id": 10,
+      "name": "Tech Wizards",
+      "type": "Technology",
+      "location": "123 Innovation Street, Techtopia",
+      "contactEmail": "techwizards@email.com",
+      "contactPhone": "+1112223333",
+      "description": "A tech support company specializing in solving technical issues.",
+      "image": "https://source.unsplash.com/400x300/?tech"
+    }
+  ]
+}
